@@ -1,7 +1,7 @@
 # TARS
 Below is a complete and self-contained README.md file for your project, formatted in Markdown for clarity and ease of use. This README assumes a coding project involving Python, Langfuse, and LLMops, hosted on GitHub, as described in the query context.
 
-```markdown
+
 # LLMops Project
 
 This project is a coding initiative that leverages Python, Langfuse, and other tools for LLMops (Large Language Model Operations). The goal is to develop a creative and practical skill that keeps the mind engaged while potentially opening career opportunities. The project is hosted on GitHub and focuses on building and deploying a machine learning model.
